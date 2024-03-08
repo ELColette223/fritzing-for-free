@@ -1,5 +1,5 @@
 
-# fritzing-free
+# fritzing-for-free
 
 
 ## Version:
